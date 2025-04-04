@@ -42,3 +42,52 @@ imageio==2.31.1
 PyWavelets==1.4.1
 tqdm==4.65.0
 colorspacious==1.1.2
+
+
+# ENG
+
+# Image processing application
+
+A universal image processing application with a wide range of functions.
+
+## Features
+
+- Basic operations with images (changing the size, format, name)
+- Image correction (brightness, contrast, sharpness, color balance)
+- Image quality improvement (noise reduction, super-resolution)
+- Image analysis (histograms, segmentation, border highlighting)
+- Transformation of color spaces
+- Affine transformations (scaling, rotation, shift)
+- Histogram construction and color distribution analysis
+
+The application has a graphical interface with intuitive controls.
+
+## Installation
+
+1. Clone the repository:
+   `clone bash
+git clone https://github.com/yourusername/ImageProcessor.git
+   cd ImageProcessor
+
+2. Set the pip/pip3/pipx settings:
+`bash
+pip install -r requirements.txt
+``
+
+3. Launch the application:
+`Hit
+the python src/ImageMain.py
+``
+
+### requirements.txt
+Pillow==9.5.0
+, baby doll==1.24.3
+scikit-image==0.21.0
+matplotlib==3.7.1
+opencv-python==4.7.0.72
+scipy==1.10.1
+imageio==2.31.1
+PyWavelets==1.4.1
+tqdm==4.65.0
+colorspacious==1.1.2
+
