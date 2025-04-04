@@ -18,8 +18,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/ImageProcessor.git
-   cd ImageProcessor
+   git clone https://github.com/OfonySF/NovaFotoForge.git
+   cd NovaFotoForge
 
 2. Установите зависимости pip/pip3/pipx:
  ```bash
@@ -66,8 +66,8 @@ The application has a graphical interface with intuitive controls.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ImageProcessor.git
-cd ImageProcessor
+   git clone https://github.com/OfonySF/NovaFotoForge.git
+   cd NovaFotoForge
 ```
 
 2. Set the pip/pip3/pipx settings:
