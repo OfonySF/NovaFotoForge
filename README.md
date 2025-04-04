@@ -65,23 +65,24 @@ The application has a graphical interface with intuitive controls.
 ## Installation
 
 1. Clone the repository:
-   `clone bash
+```bash
 git clone https://github.com/yourusername/ImageProcessor.git
-   cd ImageProcessor
+cd ImageProcessor
+```
 
 2. Set the pip/pip3/pipx settings:
-`bash
+```bash
 pip install -r requirements.txt
-``
+```
 
 3. Launch the application:
-`Hit
-the python src/ImageMain.py
-``
+```bash
+ python src/ImageMain.py
+```
 
 ### requirements.txt
 Pillow==9.5.0
-, baby doll==1.24.3
+numpy==1.24.3
 scikit-image==0.21.0
 matplotlib==3.7.1
 opencv-python==4.7.0.72
